@@ -1,0 +1,14 @@
+body{
+	background: #202020;
+}
+
+h1{
+	text-transform: uppercase;
+	background: linear-gradient(45deg, #ee9ca7,#ffdde1);
+	    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+audio{
+	
+}

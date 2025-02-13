@@ -1,0 +1,53 @@
+body{
+	background: #202020;
+}
+.rectangle-1 {
+  background: linear-gradient(#A770EF,#CF8BF3,#FDB99B);
+  height: 100px;
+  width: 300px;
+  display: flex;
+  border-radius: 30px;
+  margin-left: auto;
+    margin-right: auto;
+ 
+ }
+
+ .container{
+ 	margin-top: 400px;
+ 	
+
+ }
+
+.container:hover{
+
+}
+
+p{
+	font-size: 40px;
+	margin-top: 30px;
+	font-family: arial ;
+	transition:0.5s;
+	color: white;
+
+}
+
+p:hover{
+	color: black;
+
+}
+
+a{
+	text-decoration: none;
+}
+
+h2{
+	text-transform: uppercase;
+	background: linear-gradient(45deg, #ee9ca7,#ffdde1);
+	    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-top: 300px;
+
+
+
+
+}
